@@ -1,0 +1,48 @@
+{
+  "name": "angular-testing-with-jasmine",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "latest",
+    "core-js": "latest",
+    "zone.js": "latest",
+    "jasmine-core": "latest",
+    "@angular/core": "latest",
+    "@angular/forms": "latest",
+    "@types/jasmine": "latest",
+    "@angular/common": "latest",
+    "@angular/router": "latest",
+    "@angular/compiler": "latest",
+    "@angular/platform-browser": "latest",
+    "@angular/platform-browser-dynamic": "latest"
+  },
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "latest",
+    "@angular/cli": "latest",
+    "@angular/compiler-cli": "latest",
+    "@angular/language-service": "latest",
+    "@types/node": "latest",
+    "@types/jasmine": "latest",
+    "@types/jasminewd2": "latest",
+    "codelyzer": "latest",
+    "jasmine-core": "latest",
+    "jasmine-spec-reporter": "latest",
+    "karma": "latest",
+    "karma-chrome-launcher": "latest",
+    "karma-coverage-istanbul-reporter": "latest",
+    "karma-jasmine": "latest",
+    "karma-jasmine-html-reporter": "latest",
+    "protractor": "latest",
+    "ts-node": "latest",
+    "tslint": "latest",
+    "typescript": "latest"
+  }
+}

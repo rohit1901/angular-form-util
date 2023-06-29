@@ -1,6 +1,5 @@
 # angular-form-util
-
-```
+This Repo contains a Boilerplate Angular application with Jasmine Tests for a utility function
 # removeOriginalIndex
 
 The `removeOriginalIndex` function is a utility function for removing the 'originalIndex' control from a FormGroup and its nested controls recursively. It is commonly used in Angular applications with reactive forms.
